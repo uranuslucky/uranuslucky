@@ -7,7 +7,7 @@
      * Next, React, Nuxt, Vue, SvelteKit, Svelte, Tailwind, Redux, Zustand, Styled-component, twin-macro
      * Django, FastAPI
 - 📀 Versed in AWS service (EKS, EB, ECS, Lambda, Fargate, S3, Terraform)
-- 📀 Proficient with Blockchain & AI 
+- 📀 Focusing on AI ( model training, LLM )
 - 🙂 I’m looking for a new position to work.
 
 
